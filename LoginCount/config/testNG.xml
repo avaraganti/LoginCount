@@ -1,0 +1,7 @@
+<suite name="Test Suite">
+	<test name = "Research Count">
+		<classes>
+			<class name="pkg.src.ResearchCount"/>
+		</classes>
+	</test>
+</suite>
